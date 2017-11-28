@@ -1,4 +1,4 @@
-Intro to computer science
+# Intro to computer science
   * Commands/statements
     * Run a command from the command line
       - Echo Hello World
@@ -30,7 +30,7 @@ Intro to computer science
     - Objects
   * Algorithms
     - Binary search
-Intermediate computer science
+# Intermediate computer science
   * Reference semantics, data mutability
   * Intermediate types
     - Primitives versus custom
@@ -38,7 +38,7 @@ Intermediate computer science
   * Functional vs OOP
   * Intermediate data structures
   * Recursion
-Advanced computer science
+# Advanced computer science
   * Data Structures
   * Types
     - Strong vs weak typing
