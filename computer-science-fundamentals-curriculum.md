@@ -9,6 +9,7 @@ Intro to computer science
     * Declaring a variable
     * Referencing a variable
     * Updating a variable
+    * Scope
   * Types
     - Strings, ints, booleans, bottom/empties
   * Data manipulation
