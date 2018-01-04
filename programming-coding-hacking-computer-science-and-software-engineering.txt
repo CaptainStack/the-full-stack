@@ -1,7 +1,8 @@
-# Programming, coding, hacking, computer science, and software engineering
+# Programming, computer science, and software engineering
 
 So you've got a good idea for an app you'd like to make. You've heard about the attractive job markets and salaries for software engineers. You've had a teacher or a friend tell you that you really ought to learn to code. The only problem is, you have no clue what any of this means. Are software developers coders? Is what they do all day "programming" or "software engineering"? Does it matter?
 
 Surprisingly, this initial bit of confusion is in fact a subtle observation of distinctions that are often not acknowledged by more experienced people in the industry, often to their own detriment. Mastery of every tool requires more time and disipline than anyone has, and so a large part of what a full stack engineer does is build and maintain a broad and useful knowledge map of many different concepts. This often means knowing quite a bit about a programming language or framework that they've never even written a single line of code for. And so we will begin to build our knowledge map here by understanding some of the most fundamental concepts and terminology in software.
 
-Programming and coding:
+Programming, coding, and hacking:
+
